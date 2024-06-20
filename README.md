@@ -1,6 +1,8 @@
 reproducer:
 
+```bash
 mvn quarkus:dev
+```
 
 open http://localhost:8080/hawtio/camel/contexts
 click "suspend"
