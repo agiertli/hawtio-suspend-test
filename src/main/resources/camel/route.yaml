@@ -2,7 +2,7 @@
 
 # Write your routes here, for example:
 - route:
-    id: anton-to-behaim-its
+    id: suspend-test
     from:
       uri: timer:yaml
       parameters:
